@@ -1,11 +1,8 @@
 # Vector Forge: Flutter Recreation
 
-Feature overview for the Phase 1 technical assessment  
-Submitted by Sabiha Niaz
-
 ## Overview
 
-This is a Flutter and Dart recreation of the Vector Forge section of the reference app. It plots two vectors on a coordinate plane in 2D or 3D, performs the four core vector operations, and shows the key measurements. It uses no external packages: all drawing is done with Flutter's `CustomPainter`.
+It plots two vectors on a coordinate plane in 2D or 3D, performs the four core vector operations, and shows the key measurements. It uses no external packages: all drawing is done with Flutter's `CustomPainter`.
 
 ## Vector operations
 
@@ -51,7 +48,3 @@ The four operations are selected from tabs at the top of the screen.
 ## Design
 
 A dark petrol-blue theme with brass for vector A, rose for vector B and ice-white for results. The X, Y and Z axes use muted terracotta, sage and slate blue.
-
-## Not included
-
-The optional OCR geometry recognition bonus is not implemented.
